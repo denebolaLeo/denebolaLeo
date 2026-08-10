@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Ana Clara! 👋</h1>
+<h1 align="center">Olá eu sou a Ana Clara! 👋</h1>
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Criadora de soluções reais</h3>
 
@@ -17,7 +17,7 @@
 
 Sou técnica em Informática e estou no último período do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** pelo IFNMG. Minha paixão é entender as dores das pessoas e de negócios reais e traduzir isso em código que simplifica o dia a dia.
 
-Atualmente busco minha **primeira oportunidade focada em Desenvolvimento de Software (Estágio ou Júnior)**. 
+Atualmente busco minha **primeira oportunidade focada em Desenvolvimento (Estágio ou Júnior)**. 
 
 - 🎓 **Formação:** Reta final em TADS (IFNMG) | Técnica em Informática.
 - 💼 **O que faço hoje:** Sou Estagiária de T.I na Hágil Terapêutica (suporte e ERP Sankhya) e Professora de Informática para turmas de curso técnico do Estado.
@@ -53,17 +53,17 @@ Atualmente busco minha **primeira oportunidade focada em Desenvolvimento de Soft
 
 Mesmo antes da minha primeira vaga oficial como dev, eu já coloco a mão na massa. Aqui estão alguns projetos reais que desenvolvi:
 
-*   **[Automação de Inventário (INSS)](#)** 
+*   **[Automação de Inventário (INSS)](SEU_LINK_DO_GITHUB_AQUI)** 
     *   **Problema:** O cadastro manual de milhares de itens gerava lentidão e erros durante meu estágio no órgão.
     *   **Solução:** Desenvolvi um script autônomo que cruza a lista de códigos bipados com a base oficial do governo.
     *   **Stack:** Python, Pandas, Manipulação de CSV.
 
-*   **[Sistema de Conselho de Classe (IFNMG)](#)**
+*   **[Sistema de Conselho de Classe (IFNMG)](SEU_LINK_DO_GITHUB_AQUI)**
     *   **Problema:** Descentralização de dados e avaliações em papel/planilhas na coordenação.
     *   **Solução:** Plataforma web que centraliza os dados, gera gráficos de alunos em risco e emite a ata final em PDF.
     *   **Stack:** React, Tailwind, Python (Flask), SQLite, jsPDF.
 
-*   **[Landing Page Nova Rotta (Site em Produção)](COLE_O_LINK_DO_SITE_AQUI)**
+*   **[Landing Page Nova Rotta](SEU_LINK_DO_SITE_AQUI)** *(Site em Produção)*
     *   **Problema:** Necessidade de conversão de leads para mentorias estratégicas.
     *   **Solução:** Site estático de alta performance, fiel ao design fornecido e totalmente responsivo.
     *   **Stack:** React, Vite, Tailwind CSS.
@@ -75,6 +75,7 @@ Mesmo antes da minha primeira vaga oficial como dev, eu já coloco a mão na mas
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denebolaLeo&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denebolaLeo&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Ana Clara" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denebolaLeo&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Top Linguagens" />
+</div>
