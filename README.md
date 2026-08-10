@@ -49,6 +49,32 @@ Atualmente busco minha **primeira oportunidade focada em Desenvolvimento de Soft
 
 ---
 
+### 🚀 Projetos em Destaque
+
+Mesmo antes da minha primeira vaga oficial como dev, eu já coloco a mão na massa. Aqui estão alguns projetos reais que desenvolvi:
+
+*   **[Automação de Inventário (INSS)](#)** 
+    *   **Problema:** O cadastro manual de milhares de itens gerava lentidão e erros durante meu estágio no órgão.
+    *   **Solução:** Desenvolvi um script autônomo que cruza a lista de códigos bipados com a base oficial do governo.
+    *   **Stack:** Python, Pandas, Manipulação de CSV.
+
+*   **[Sistema de Conselho de Classe (IFNMG)](#)**
+    *   **Problema:** Descentralização de dados e avaliações em papel/planilhas na coordenação.
+    *   **Solução:** Plataforma web que centraliza os dados, gera gráficos de alunos em risco e emite a ata final em PDF.
+    *   **Stack:** React, Tailwind, Python (Flask), SQLite, jsPDF.
+
+*   **[Landing Page Nova Rotta (Site em Produção)](COLE_O_LINK_DO_SITE_AQUI)**
+    *   **Problema:** Necessidade de conversão de leads para mentorias estratégicas.
+    *   **Solução:** Site estático de alta performance, fiel ao design fornecido e totalmente responsivo.
+    *   **Stack:** React, Vite, Tailwind CSS.
+
+*   **📱 App de Gestão Comunitária (Igreja)** *(Em desenvolvimento)*
+    *   **Problema:** Comunicação fragmentada e gestão financeira manual de dízimos/ofertas.
+    *   **Solução:** Aplicativo multiplataforma para mural de avisos, devocionais e automação de pagamentos via PIX integrado à tesouraria.
+    *   **Stack:** Flutter, Dart, Firebase, Node.js.
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denebolaLeo&show_icons=true&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
 </p>
