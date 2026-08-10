@@ -76,6 +76,8 @@ Mesmo antes da minha primeira vaga oficial como dev, eu já coloco a mão na mas
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denebolaLeo&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Ana Clara" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denebolaLeo&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Top Linguagens" />
+
+[![Estatísticas do GitHub de Ana Clara](https://github-stats-extended.vercel.app/api?username=denebolaLeo&show_icons=true&theme=dracula&hide_border=true&locale=pt-br)](https://github.com/denebolaLeo)
+[![Top Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=denebolaLeo&layout=compact&theme=dracula&hide_border=true&locale=pt-br)](https://github.com/denebolaLeo)
+
 </div>
