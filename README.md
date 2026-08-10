@@ -3,10 +3,10 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Criadora de soluções reais</h3>
 
 <p align="center">
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-clara-francino-b39730237/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="LINK_DO_SEU_PORTFOLIO" target="_blank">
+  <a href="https://anaclara-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%230F172A?style=for-the-badge&logo=vercel&logoColor=cyan" target="_blank">
   </a>
 </p>
