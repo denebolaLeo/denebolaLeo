@@ -53,17 +53,17 @@ Atualmente busco minha **primeira oportunidade focada em Desenvolvimento (Estág
 
 Mesmo antes da minha primeira vaga oficial como dev, eu já coloco a mão na massa. Aqui estão alguns projetos reais que desenvolvi:
 
-*   **[Automação de Inventário (INSS)](SEU_LINK_DO_GITHUB_AQUI)** 
+*   **[Automação de Inventário (INSS)](https://github.com/denebolaLeo/projeto-inventario-inss)** 
     *   **Problema:** O cadastro manual de milhares de itens gerava lentidão e erros durante meu estágio no órgão.
     *   **Solução:** Desenvolvi um script autônomo que cruza a lista de códigos bipados com a base oficial do governo.
     *   **Stack:** Python, Pandas, Manipulação de CSV.
 
-*   **[Sistema de Conselho de Classe (IFNMG)](SEU_LINK_DO_GITHUB_AQUI)**
+*   **[Sistema de Conselho de Classe (IFNMG)](https://github.com/denebolaLeo/projeto-CdC-MetodologiasAgeis)**
     *   **Problema:** Descentralização de dados e avaliações em papel/planilhas na coordenação.
     *   **Solução:** Plataforma web que centraliza os dados, gera gráficos de alunos em risco e emite a ata final em PDF.
     *   **Stack:** React, Tailwind, Python (Flask), SQLite, jsPDF.
 
-*   **[Landing Page Nova Rotta](SEU_LINK_DO_SITE_AQUI)** *(Site em Produção)*
+*   **[Landing Page Nova Rotta](https://novarotta.net/)** *(Site em Produção)*
     *   **Problema:** Necessidade de conversão de leads para mentorias estratégicas.
     *   **Solução:** Site estático de alta performance, fiel ao design fornecido e totalmente responsivo.
     *   **Stack:** React, Vite, Tailwind CSS.
