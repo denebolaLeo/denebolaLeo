@@ -1,4 +1,4 @@
-<h1 align="center">Olá eu sou a Ana Clara! 👋</h1>
+<h1 align="center">Olá eu sou a Ana Clara! </h1>
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Criadora de soluções reais</h3>
 
